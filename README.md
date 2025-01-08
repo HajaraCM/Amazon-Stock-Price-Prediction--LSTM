@@ -22,9 +22,9 @@ These capabilities make LSTM ideal for understanding and predicting stock price 
 
 * **Additional Analysis**:
 
-  -100-day moving average
+  - 100-day moving average
 
-  -200-day moving average
+  - 200-day moving average
 
 * **Outcome**: Accurate predictions aligned with market trends, offering valuable insights into price movements.
 
